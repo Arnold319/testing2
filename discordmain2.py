@@ -105,5 +105,5 @@ async def on_ready():
     print('------')
     auth = ""
 
-client.run(TOKEN)
+client.run ('NTU5OTA5MjU2MDk5MjY2NTYw.XLSvMQ.XNylJKkwcav4fn-rLStDGZQG2hA')
 
